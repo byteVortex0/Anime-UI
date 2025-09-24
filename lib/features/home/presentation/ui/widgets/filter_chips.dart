@@ -31,7 +31,8 @@ class _FilterChipsState extends State<FilterChips> {
         itemBuilder: (context, index) {
           final item = filters[index];
           return FilterChip(
-            label: Text(item),
+            label: Text(item, overflow: TextOverflow.visible),
+            labelPadding: EdgeInsets.symmetric(horizontal: 15.w),
             labelStyle: selected == item
                 ? StyleManager.white14Bold
                 : StyleManager.brand14Bold,
