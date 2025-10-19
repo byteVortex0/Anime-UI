@@ -2,6 +2,13 @@
 
 Anime-UI is a Flutter project created as a UI experiment focusing on designing an engaging anime-themed interface. The project currently implements several UI components and layouts without connecting to any domain logic or backend functionality.
 
+---
+
+## 🎥 Watch the Demo
+[![Watch the demo](https://img.youtube.com/vi/zBsWnQq8s1s/0.jpg)](https://youtu.be/zBsWnQq8s1s)
+
+---
+
 ## Features
 
 - Custom UI screens with anime-inspired design  
@@ -13,7 +20,7 @@ Anime-UI is a Flutter project created as a UI experiment focusing on designing a
 - Custom fonts using `google_fonts`
 
 > ⚠️ Note: The project includes a Clean Architecture folder structure, but the domain and use case files are currently empty. This is meant for future development.
-
+---
 ## Screenshots
 
 <img width="300" height="600" alt="Screenshot_1758759910" src="https://github.com/user-attachments/assets/655757c4-3c63-40b0-a8ba-a36f76534433" />
